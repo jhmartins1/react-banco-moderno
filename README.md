@@ -1,4 +1,4 @@
-## Hoobank
+## Banco Moderno
 Made by iJH8
 
 ### Tecnologias utilizadas: ReactJS & Tailwind
